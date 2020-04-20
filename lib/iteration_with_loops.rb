@@ -17,7 +17,7 @@ def find_min_in_nested_arrays(src)
     min_in_nested_arrays << minimun_of_current_row
     row += 1
   end
-minimun_of_current_row
+min_in_nested_arrays
 end
 
 
